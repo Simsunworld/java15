@@ -15,4 +15,20 @@ public class Hibernate
         System.out.println( "Hibernate Branch" );
 
     }
+
+    public static void getById() {
+
+    }
+
+    public static void save() {
+
+    }
+
+    public static void update() {
+
+    }
+
+    public static void delete() {
+
+    }
 }
